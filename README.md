@@ -1,6 +1,6 @@
 # PayconiqAssessment
 
-Tech Stack: Java , RestAssured ,Junit, TestNG, Maven, 
+Tech Stack: Java , RestAssured , Junit , TestNG , Maven
 
 In this assignment, you are responsible for writing automated API tests for Hotel Booking Endpoints.
 
